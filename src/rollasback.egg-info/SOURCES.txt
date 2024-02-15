@@ -1,0 +1,16 @@
+CONTRIBUTING.md
+MANIFEST.in
+README.md
+setup.py
+src/rollasback/__init__.py
+src/rollasback/app.py
+src/rollasback/cookie.py
+src/rollasback/http_request.py
+src/rollasback/http_response.py
+src/rollasback/redirect.py
+src/rollasback/renderers.py
+src/rollasback.egg-info/PKG-INFO
+src/rollasback.egg-info/SOURCES.txt
+src/rollasback.egg-info/dependency_links.txt
+src/rollasback.egg-info/requires.txt
+src/rollasback.egg-info/top_level.txt
