@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: rollasback
-Version: 0.1
+Version: 0.2
 Summary: Web backend framework written in Python named as RollAsBack.
 Author-email: canrollas@codewiki.org
 License: MIT
