@@ -18,8 +18,8 @@ import logging as log
 import re
 import socket
 import time
-from src.rollasback.http_response import HttpResponse, RESPONSEMEMETYPES
-from src.rollasback.http_request import HttpRequest
+from rollasback.http_response import HttpResponse, RESPONSEMEMETYPES
+from rollasback.http_request import HttpRequest
 from urllib.parse import urlparse, parse_qs
 
 

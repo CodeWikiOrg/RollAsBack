@@ -2,12 +2,12 @@ Metadata-Version: 2.1
 Name: rollasback
 Version: 0.1
 Summary: Web backend framework written in Python named as RollAsBack.
-Home-page: UNKNOWN
 Author-email: canrollas@codewiki.org
 License: MIT
-Platform: UNKNOWN
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: urllib3
 
 # RollAsBack - Python Web Backend Framework
 
@@ -70,4 +70,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to extend RollAsBack based on your application's requirements. For more details on how to use and customize the framework, refer to the source code and additional documentation.
 
 **Happy coding with RollAsBack!**
-

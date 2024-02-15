@@ -1,5 +1,5 @@
 import time
-from src.rollasback import HttpResponse, RESPONSEMEMETYPES, HTTPRESPONSECODES
+from rollasback import HttpResponse, RESPONSEMEMETYPES, HTTPRESPONSECODES
 
 
 class Redirect(HttpResponse):
